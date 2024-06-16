@@ -115,7 +115,6 @@ export default {
   padding: 8px 15px 8px 22px;
   gap: 0px;
   justify: space-between;
-  opacity: 0px;
 }
 
 .checkboxs{
@@ -124,7 +123,6 @@ export default {
   padding: 10px 0px 10px 0px;
   gap: 0px;
   border-radius: 6px;
-  opacity: 0px;
   box-shadow: -2px 8px 15px 3px #1414141F;
 }
 
@@ -133,7 +131,6 @@ export default {
   height: 40px;
   gap: 10px;
   radius: 4px;
-  opacity: 0px;
   background-color: #FFCE22;
   margin-top: 10px;
 }

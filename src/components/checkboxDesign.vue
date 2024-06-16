@@ -133,6 +133,7 @@ export default {
   radius: 4px;
   background-color: #FFCE22;
   margin-top: 10px;
+  font-size: 14px;
 }
 
 .button:hover{

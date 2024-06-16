@@ -20,6 +20,7 @@ export default {
 <style>
 #app {
   font-family: Montserrat;
+  font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
